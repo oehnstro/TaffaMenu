@@ -1,0 +1,23 @@
+html {
+  height: 100%;
+}
+
+body {
+  font-family: 'Roboto', Helvetica, Arial, sans;
+  margin: 2.5mm;
+  background-color: #fefefe;
+  font-weight: 300;
+  font-size: 5mm;
+  color: #3a3a3a;
+}
+
+h1 {
+    color: #861212;
+    font-weight: 200;
+    font-size: 3em;
+}
+
+li {
+    list-style-type: none;
+}
+
