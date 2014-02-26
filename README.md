@@ -17,3 +17,9 @@ Build apk:
 Install apk:
 
     adb install platforms/android/ant-build/HelloWorld-debug.apk
+
+# License
+
+Copyright Oskar Ehnström - 2014
+
+[Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
